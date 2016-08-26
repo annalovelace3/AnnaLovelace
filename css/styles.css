@@ -4,7 +4,8 @@
   text-align:center;
   min-height: 60px;
   font-family:fantasy;
-  font-size: 30px;
+  font-size: 80px;
+  width: 100%;
 }
 
 .sidebar{
@@ -19,7 +20,7 @@
 }
 
 .main{
-  width: 69%;
+  width: 69%
 }
 
 .firstbody{
@@ -43,4 +44,43 @@ h2{
 a{
   color:white;
   text-decoration:none;
+}
+
+.row{
+  color: white;
+  font-family: serif;;
+  padding: 4px;
+  margin: 10px;
+  background-color: black;
+  padding: 4px;
+}
+
+body{
+  background-color:black;
+}
+
+#quote{
+  font-family:fantasy;
+  color: white;
+  font-size: 40px;
+  font-style:italic;
+}
+
+h1{
+  font-size: 40px;
+}
+
+
+h3{
+  font-size: 30px;
+  font-family: fantasy;
+}
+
+.text{
+  font-size: 20px;
+}
+
+.rogueriver{
+  height: 400px;
+  width: 400px;
 }
